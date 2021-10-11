@@ -6,7 +6,7 @@ function start(){
         document.getElementById("goal_background").style.display="none";
     },1000);
     setTimeout(function(){
-        document.getElementById("level1").style.display="block";
+        document.getElementById("ground").style.display="block";
     },3501)
     
 }
